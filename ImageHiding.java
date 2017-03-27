@@ -1,6 +1,4 @@
 /* Sean Lachhander
- * April 7, 2016
- * Assignment 3 -- Cryptography
  * */
 
 import java.awt.*;
